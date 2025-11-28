@@ -1,4 +1,5 @@
-const API_URL = 'http://localhost:3002/api';
+const API_URL = '/api';
+
 
 // DOM Elements
 const uploadArea = document.getElementById('uploadArea');
